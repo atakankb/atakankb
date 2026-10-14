@@ -34,5 +34,5 @@
 ---
 
 📫 **Bana Ulaşın:**
-- 💼 **LinkedIn:** [LinkedIn Profilim](https://linkedin.com)
-- 📧 **E-Posta:** atakan@example.com
+- 💼 **LinkedIn:** [LinkedIn Profilim]([https://linkedin.com](https://www.linkedin.com/in/atakan-kaba-050291399/))
+- 📧 **E-Posta:** kabaatakan19@gmail.com
