@@ -5,7 +5,7 @@
 
 ---
 
-### 🛠️ Bildiğim Teknolojiler & Diller (Tech Stack)
+### 🛠️ Bildiğim Programlar & Diller 
 
 #### 💻 Programlama & Web Geliştirme
 <p align="left">
@@ -17,9 +17,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### 🎨 Tasarım & Grafik
+#### 🎨 Tasarım, Ofis & Araçlar
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word" />
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Office" />
 </p>
 
 ---
