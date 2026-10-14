@@ -1,7 +1,7 @@
 # Hi there, I'm Atakan! 👋
 
 🎓 **Kastamonu Üniversitesi** Bilgisayar Programcılığı 2. Sınıf Öğrencisiyim.
-🚀 Yazılım geliştirme, web teknolojileri ve görsel tasarım alanlarında kendimi geliştirmeye devam ediyorum.
+ Yazılım geliştirme, web teknolojileri ve görsel tasarım alanlarında kendimi geliştirmeye devam ediyorum.
 
 ---
 
